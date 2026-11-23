@@ -1,5 +1,18 @@
 {
- "assets": {},
+ "assets": {
+  "fir_tree_01": "6b79f3da0de1d192fc78ab54efa5e8956af97749",
+  "flower_empodium": "9b07e5501c6a00074d6bd55df2571f61687b2185",
+  "flower_gazania": "6861ef52064618add31b204dcabc198a5bfbb52e",
+  "flower_heliophila": "2e29fbc25028f76af4a3dc86cfb3b6480cf85d51",
+  "flower_stinkkruid": "03082af6c21b6b6f146a8bec83808a8efafb3e7b",
+  "flower_ursinia": "c7207cfa8d45fac3cca61091eab76931340b6722",
+  "grass_bermuda_01": "2db18033b751b1c846f98e2797539d39f155a8dc",
+  "grass_medium_01": "c37a6bea414dac24f578f288810652add69d09fc",
+  "grass_medium_02": "d05007ce4693d18c58c6a58b3db37d0804888066",
+  "island_tree_01": "29bbda3fd0ebe9974d015ba2a9d939525eb6811b",
+  "island_tree_02": "4292954a33702fc0809a2b2f17a310bb36fd1aca",
+  "island_tree_03": "1a79cbc33b9534f23a88a1adc2ad8fcdce54505a"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
